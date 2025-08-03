@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [kRISP-meR](https://github.com/Navid-089/kRISP-mER)
 
+- 💼 I'm currently working at **LimbicsAI** as a **Full-Stack Intern**  
+
 - 🌱 I’m currently learning **ML, DL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navid-089?tab=repositories](https://github.com/Navid-089?tab=repositories)
