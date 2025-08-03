@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">Level-4, Term-1 undergrad at BUET | Explorer of all things tech - from bioinformatics & cybersecurity to full-stack development.</h3>
+<h3 align="center">Level-4, Term-1 undergrad at BUET | Explorer of all things tech - from Bioinformatics & Cybersecurity to Full-Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navid-089&label=Profile%20views&color=0e75b6&style=flat" alt="navid-089" /> </p>
 
@@ -13,13 +13,19 @@
 
 - 💼 I'm currently working at **LimbicsAI** as a **Full-Stack Intern**  
 
-- 🌱 I’m currently learning **ML, DL**
+- 🌱 I’ve been learning **ML, DL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Navid-089?tab=repositories](https://github.com/Navid-089?tab=repositories)
+### 🛠️ Featured Projects
+
+- 🔬 [KRISP-mER](https://github.com/Navid-089/kRISP-mER) – A research-driven tool for mutation enrichment ranking in CRISPR datasets.
+- 🎓 [GradPilot](https://github.com/Navid-089/GradPilot) – University & scholarship recommendation platform using ML and Supabase.
+- 📚 [Learnly](https://github.com/Navid-089/Learnly) – A lightweight platform for finding tuitions for both tutors and students.
 
 
 
-- 📫 How to reach me **wahidnavid@gmail.com**
+
+### 📫 How to reach me 
+**wahidnavid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +46,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navid-089&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navid-089&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 
