@@ -1,4 +1,10 @@
 <h1 align="center">Hi, I'm Navid.</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/aXWyiI5KyBXYk/giphy.gif" alt="funny cat gif" width="400"/>
+</p>
+
+
 <h3 align="center">Level-4, Term-1 undergrad at BUET | Explorer of all things tech - from bioinformatics & cybersecurity to full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navid-089&label=Profile%20views&color=0e75b6&style=flat" alt="navid-089" /> </p>
