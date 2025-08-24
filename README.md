@@ -18,7 +18,7 @@
 ### 🛠️ Featured Projects
 
 - 🔬 [KRISP-mER](https://github.com/Navid-089/kRISP-mER) – A research-driven tool for mutation enrichment ranking in CRISPR datasets.
-- 🎓 [GradPilot](https://github.com/Navid-089/GradPilot) – University & scholarship recommendation platform using ML and Supabase.
+- 🎓 [GradPilot](https://github.com/Navid-089/GradPilot) – University & scholarship recommendation platform using ML and Gemini.
 - 📚 [Learnly](https://github.com/Navid-089/Learnly) – A lightweight platform for finding tuitions for both tutors and students.
 
 
