@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [kRISP-meR](https://github.com/Navid-089/kRISP-mER)
 
-- 💼 I'm currently working at **LimbicsAI** as a **Full-Stack Intern**  
+- 💼 I'm currently working at [LimbicsAI](https://app.limbics.ai/) as a **Full-Stack Intern**  
 
 - 🌱 I’ve been learning **ML, DL**
 
