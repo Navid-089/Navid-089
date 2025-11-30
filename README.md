@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">Level-4, Term-1 undergrad at BUET | Explorer </h3>
+<h3 align="center">Level-4, Term-2 undergrad at BUET </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navid-089&label=Profile%20views&color=0e75b6&style=flat" alt="navid-089" /> </p>
 
@@ -13,7 +13,6 @@
 
 - 💼 I'm currently working at [LimbicsAI](https://app.limbics.ai/) as a **Full-Stack Intern**  
 
-- 🌱 I’ve been learning **ML, DL**
 
 ### 🛠️ Featured Projects
 
