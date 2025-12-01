@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Navid.</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/aXWyiI5KyBXYk/giphy.gif" alt="funny cat gif" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhvYThzdmV2OWk1bWJzdWUxbjhtb2R1em5jM2NjeHMwcnJldjlodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif" alt="navid-089" />
 </p>
-
 
 <h3 align="center">Level-4, Term-2 undergrad at BUET </h3>
 
