@@ -1,4 +1,4 @@
-<h1 align="center">Wahid Al Azad Navid</h1>
+
 
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhvYThzdmV2OWk1bWJzdWUxbjhtb2R1em5jM2NjeHMwcnJldjlodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif" alt="navid-089" />
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=navid-089&label=Profile%20views&color=0e75b6&style=flat" alt="navid-089" />
 </p>
 
-CS Lecturer and BUET graduate specializing in ML and bioinformatics, with past full-stack experience at [LimbicsAI](https://app.limbics.ai/).
+Wahid Al Azad Navid | CS Lecturer and BUET graduate specializing in ML and bioinformatics, with past full-stack experience at [LimbicsAI](https://app.limbics.ai/).
 
 
 
