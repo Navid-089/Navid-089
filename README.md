@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=navid-089&label=Profile%20views&color=0e75b6&style=flat" alt="navid-089" />
 </p>
 
-Wahid Al Azad Navid | CS Lecturer and BUET graduate specializing in ML and bioinformatics, with past full-stack experience at [LimbicsAI](https://app.limbics.ai/).
+Wahid Al Azad Navid | Lecturer at [Presidency University](https://pu.edu.bd/) and CSE graduate of [BUET](https://www.buet.ac.bd/web/), working on computational biology and machine learning. Part-time Software and ML Engineer at [LimbicsAI](https://limbics.ai/).
 
 
 
@@ -19,18 +19,21 @@ Wahid Al Azad Navid | CS Lecturer and BUET graduate specializing in ML and bioin
 
 ### Research
 
-- **Disentangling Cross-Modal Information Pathways via Mechanistic Interpretability of Multimodal Fusion Models** — *submitted to Neural Networks, 2026*
-- **DocTalkBN: A Novel Dataset of Expert Telemedicine Conversations in Bengali** — *submitted to ACL ARR, 2026*
-- **Bengali-Loop: Community Benchmarks for Long-Form Bangla ASR and Speaker Diarization** — *arXiv preprint, 2026*
-- **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9** — *manuscript in preparation*
+- **kRISP-meR: A Reference-free Guide-RNA Design Tool for CRISPR/Cas9** — *first author; undergraduate thesis; manuscript in preparation*
+- **A Multimodal Framework for Pavement Condition Assessment Using Roadway Imagery and Vehicle Response** — *second author; under review, TRB Annual Meeting*
+- **Disentangling Cross-Modal Information Pathways via Mechanistic Interpretability of Multimodal Fusion Models** — *second author; manuscript in preparation*
+- **DocTalkBN: A Novel Dataset of Expert Telemedicine Conversations in Bengali** — *manuscript in preparation*
+- **Bengali-Loop: Community Benchmarks for Long-Form Bangla ASR and Speaker Diarization** — *[arXiv:2602.14291](https://arxiv.org/abs/2602.14291), 2026*
+
+More detail on [my site](https://navid-089.github.io/#research).
 
 ---
 
 ### Featured Projects
 
-- **[kRISP-meR](https://github.com/Navid-089/kRISP-mER)**: Reference-free sgRNA design for CRISPR/Cas9, using k-mer based probabilistic modeling to design guide RNAs directly from sequencing reads. Undergraduate thesis.
-- **[GradPilot](https://github.com/Navid-089/GradPilot)**: Machine learning platform for graduate applications: university matching, SOP review, and application tracking. Spring Boot, Next.js, Docker.
-- **[Learnly](https://github.com/Navid-089/Learnly)**: Tuition platform connecting tutors and students, with batch management.
+- **[kRISP-meR](https://navid-089.github.io/projects/krispmer/)**: Reference-free guide-RNA design for CRISPR/Cas9. Models the k-mer spectrum of raw sequencing reads to estimate genomic copy number and score off-target risk, with no reference genome or assembly. Undergraduate thesis.
+- **[GradPilot](https://github.com/Navid-089/GradPilot)**: Platform for graduate applications with ML-based university matching, SOP review, and application tracking. Spring Boot, Next.js, Docker.
+- **[DHCP Starvation and Spoofing](https://github.com/Navid-089/DHCP-Starvation-and-Spoofing)**: Both attacks simulated in an isolated lab, with disruption measured and defences evaluated. Python, Scapy, ns-3.
 - **[C Compiler](https://github.com/Navid-089/CSE-310-Compiler-Sessional)**: Compiler for a subset of C, built with Flex and Bison.
 
 ---
